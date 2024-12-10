@@ -1,0 +1,11 @@
+lipreading_env/
+frames/
+gray_frames/
+mouth_frames/
+videos/
+labels/
+predict_frames/
+predict_gray_frames/
+predict_mouth_frames/
+*.mp4
+*.h5
